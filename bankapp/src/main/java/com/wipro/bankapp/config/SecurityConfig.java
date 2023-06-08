@@ -17,6 +17,8 @@ import com.wipro.bankapp.jwt.JwtRequestFilter;
 /* unable to Extend WebSecurityConfigurerAdapter is there any dependency error 
  * @EnableGlobalMEthodSecurity(prePostEnabled = true) public class
  * SecurityConfig extends WebSecurityConfigurerAdapter {
+ * 
+ * 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
  */
 	public class SecurityConfig {
 	@Autowired
